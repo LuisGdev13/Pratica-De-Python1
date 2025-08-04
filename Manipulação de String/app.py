@@ -37,7 +37,6 @@ def opçoes_programa():
 
 
     else:
-       
         finalizar_programa()
 
 
@@ -51,6 +50,8 @@ def main ():
 if __name__ == '__main__':
      main()
 
+
+#comentario para criar segunda versão do código
      
     # Arrumar o programa que está saindo sem utilizar as outras opções
        
